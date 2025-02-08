@@ -47,9 +47,4 @@ You can modify the coordinates for different locations as needed.
 ```
 The distance between Riyadh and Mecca is: 790.31 km
 ```
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
